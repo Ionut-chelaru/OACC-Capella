@@ -1,0 +1,5 @@
+ReqIFName,ReqIFText,requirementType,Parent,Allocating Elements,Priority,Status
+,,,,,,
+Pilotul trebuie sa poata controla deplasarea,,functional,Perform Audio Announcements,Comanda deplasare,High,Draft
+Smartphoneul trebuie sa transmita video pe baza Car Kit,,functional,Perform Audio Announcements,TransmisieComandaDeplasare,High,Draft
+Car Kit(robot) trebuie sa aiba abilitatea de a se deplasa,,functional,Perform Audio Announcements,Realizare deplasare,High,Draft
